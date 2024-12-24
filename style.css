@@ -1,0 +1,30 @@
+h1
+{
+	color: rgb(231,39,39);
+}
+
+	h2
+	{
+	color: goldenrod;
+
+	}
+	
+	p
+	{
+	font-family: arial;
+	}	
+
+body
+{ 
+	background-color: red;
+}
+
+#carte
+{
+
+		width: 800px;
+		margin:0 auto;
+		background-color: rgb(246,245,151);
+		text-align: center; 
+		align-content: center;
+}
